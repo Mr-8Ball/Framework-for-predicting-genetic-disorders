@@ -1,0 +1,2 @@
+# Framework-for-predicting-genetic-disorders
+This is my solution for Hackerearth competition running until August 15 2021. I know it is public, you can copy my design if you want to. 0 fuqs given. Project consists of 2 main programs. First is a Framework designed to cope with the data given by the competition caller, while second program is an actual implementation based on the insights from the Framework. The whole software is console based and written in C. More info in the Readme.txt file.
